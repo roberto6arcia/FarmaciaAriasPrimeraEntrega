@@ -1,0 +1,8 @@
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Entity\obj\Debug\netstandard2.0\Entity.pdb

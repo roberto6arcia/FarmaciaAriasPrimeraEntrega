@@ -1,0 +1,186 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Logica\\Logica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\GARCIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GARCIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\GARCIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GARCIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Logica\\Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Logica\\Logica.csproj",
+        "projectName": "Logica",
+        "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Logica\\Logica.csproj",
+        "packagesPath": "C:\\Users\\GARCIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Logica\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\GARCIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\GARCIA\\Documents\\Ingenieria De Sistemas\\2020\\FARMACIAARIAS\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

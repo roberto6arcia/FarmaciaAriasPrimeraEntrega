@@ -1,0 +1,11 @@
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.dll
+C:\Users\GARCIA\Documents\Ingenieria De Sistemas\2020\FARMACIAARIAS\Datos\obj\Debug\netstandard2.0\Datos.pdb

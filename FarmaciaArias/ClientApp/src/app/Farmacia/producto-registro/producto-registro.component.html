@@ -1,0 +1,37 @@
+<div class="signup-form">
+    <form method="post">
+    <div class="form-header">
+      <h2>Registro Producto</h2>
+      <p>Completar cada campo</p>
+    </div>
+        <div class="form-group">
+      <label>Codigo</label>
+          <input type="text" name="codigoP" [(ngModel)]="producto.codigoP" class="form-control">
+        </div>
+        <div class="form-group">
+      <label>Nombre</label>
+          <input type="text" name="nombreP" [(ngModel)]="producto.nombreP" class="form-control">
+        </div>
+      <div class="form-group">
+        <label>Laboratorio</label>
+           <input type="text"name="laboratorioP" [(ngModel)]="producto.laboratorioP" class="form-control">
+        </div>
+    <div class="form-group">
+      <label for="eda">Fecha de vencimiento</label>
+            <input type="date" class="form-control" name="fechadevencimiento" [(ngModel)]= "producto.fechadevencimiento" 
+            value="aa-mm-dd"
+            min="2019-01-01" max="2030-12-31"/>
+        </div>
+        <div class="form-group">
+            <label>Cantidad</label>
+               <input type="number" name="cantidadP" [(ngModel)]="producto.cantidadP" class="form-control">
+            </div>  
+        
+    <div class="button">
+      <button type="button" class="btn btn-primary btn-block btn-lg" (click)="add()">Registrar</button>
+      <button type="button" class="btn btn-primary btn-block btn-lg" type="reset">Cancelar</button>
+    </div>	
+    
+    </form>
+
+</div>

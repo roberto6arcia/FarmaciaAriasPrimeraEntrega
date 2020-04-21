@@ -1,0 +1,29 @@
+<div class="row">
+    <div class="col-6">
+      <input [(ngModel)]="searchText" type="text" class="form-control" placeholder="Type to filter">
+    </div>
+  </div>
+  <hr>
+  
+  <table class="table table-striped" *ngIf='productos && productos.length'>
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">CODIGO</th>
+        <th scope="col">NOMBRE</th>
+        <th scope="col">LABORATORIO</th>
+        <th scope="col">FECHA DE VENCIMIENTO</th>
+        <th scope="col">CANTIDAD</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let producto of productos; index as i ">
+        <th scope="row">{{ i + 1 }}</th>
+        <td>{{ producto.codigoP }} </td>
+        <td>{{ producto.nombreP }}</td>
+        <td>{{ producto.laboratorioP }}</td>
+        <td>{{ producto.fechadevencimiento }}</td>
+        <td>{{ producto.cantidadP }}</td>
+      </tr>
+    </tbody>
+  </table>
